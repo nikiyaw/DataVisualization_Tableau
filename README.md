@@ -11,17 +11,17 @@ The main goal of this project is to create a data visualization dashboard to dis
 
 1. Explore the relationships by building multiple visualizations. 
 
-Bar Chart
-Effect: Amount of Damage VS Total Damage Cost & Frequency of Wildlife Strikes
-Effect: Impact to Flight VS Total Damage Cost & Frequency of Wildlife Strikes
-When: Time of Day VS Total Damage Cost
-When: Phase of Flight VS Total Damage Cost 
-Frequency of Strike Over Time
-Total Damage Cost Over Time
+### Bar Chart
+- Effect: Amount of Damage VS Total Damage Cost & Frequency of Wildlife Strikes
+- Effect: Impact to Flight VS Total Damage Cost & Frequency of Wildlife Strikes
+- When: Time of Day VS Total Damage Cost
+- When: Phase of Flight VS Total Damage Cost 
+- Frequency of Strike Over Time
+- Total Damage Cost Over Time
 
-Choropleth
-Total Damage Cost per State
-Cost-Strike Ratio per State
+### Choropleth
+- Total Damage Cost per State
+- Cost-Strike Ratio per State
 
 2. Formulate questions that can be answered using the data. 
 3. Extract important patterns and trends to answer the questions. 
