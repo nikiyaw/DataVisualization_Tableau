@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Data-Visualization-Tableau
 
 ## Project/Goals
 
@@ -30,7 +30,6 @@ Cost-Strike Ratio per State
 
 ## Results
 
-
 1. Substantial damages cost the most money (Effect: Amount of Damage VS Total Damage Cost)
 - Looking at the ratio (cost / frequency), destroyed air vessels cost 10 times more 
 
@@ -61,27 +60,28 @@ The above is just a quick summary of the results obtained from the visualization
 
 ## Challenges 
 
-Overloaded with information
+1. Overloaded with information
 - start by sorting out interested variables 
 
-Identifying the bigger picture
+2. Identifying the bigger picture
 - from a business perspective (focus on cost)
 
-Make sense of the numbers/trends
+3. Make sense of the numbers/trends
 - what do they mean
 
-Find out more in-depth information
+4. Find out more in-depth information
 - further analysis (cost-strike ratio)
+
 
 ## Future Goals
 
 From the observations obtained, there are multiple areas that we can dive into for future investigations. 
 
-Effect (to the aircrafts)
+1. Effect (to the aircrafts)
 - study the why & how of the substantial/destroyed cases and make improvements
 
-When (did the strikes happened)
+2. When (did the strikes happened)
 - preventative measures in climbing phase
 
-Location (origin state)
+3. Location (origin state)
 - explore if there are other compounding factors
