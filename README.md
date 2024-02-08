@@ -1,9 +1,10 @@
 # Data Visualization, Presenting FAA Wildlife Strikes
 
-## Project/Goals
+## Overview
 The goal of this project is to utilize Tableau to create several visualizations that help uncover trends and insights from the data of FAA wildlife strikes. The damage cost and the frequency of wildlife strikes are the dependent variables. The independent variables are the effect to the aircrafts, the time when the incidents took place and the location (origin state).
 
-The main goal of this project is to create a data visualization dashboard to display the relationships between the mentioned variables. 
+## Tools
+Tableau
 
 ## Process
 Listed below are all the visualizations presented.
